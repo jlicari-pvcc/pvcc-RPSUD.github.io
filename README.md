@@ -1,4 +1,6 @@
-#pvcc-RPSUD.github.io
+##pvcc-RPSUD.github.io
+
+Before clicking on these bottom links, be sure to read the _Rock Paper Scissors Ultra Deluxe - Design Document_ PDF file first. Thank you!
 
 Underlined links embedded into the design document:
 - https://www.whatbeatsrock.com/
