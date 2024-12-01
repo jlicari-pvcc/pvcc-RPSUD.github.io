@@ -1,5 +1,7 @@
 ##pvcc-RPSUD.github.io
 
+This project was planned, tested, and developed by Joshua Licari and Christian Millard for the CSC 221 Final Project.
+
 Before playing the game and clicking on these links below, be sure to read the _Rock Paper Scissors Ultra Deluxe - Design Document_ PDF file first. Thank you!
 
 Underlined links embedded into the design document:
